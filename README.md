@@ -1,1 +1,1 @@
-In this project, i used HTML,CSS,JS AND INDEXEDDB for build the website and local databse.
+In this project, i used HTML and INDEXEDDB for build the website and local databse.
